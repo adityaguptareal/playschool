@@ -7,7 +7,7 @@ import React from 'react';
       {
         title: '10 Activities to Boost Your Child\'s Creativity',
         excerpt: 'Discover fun and engaging activities that help develop your child\'s creative thinking and problem-solving skills.',
-        image: 'https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+        image: 'https://images.pexels.com/photos/8535599/pexels-photo-8535599.jpeg?auto=compress&cs=tinysrgb&w=600',
         date: 'March 15, 2024'
       },
       {

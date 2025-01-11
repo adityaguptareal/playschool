@@ -7,19 +7,19 @@ import React from 'react';
       {
         title: '10 Activities to Boost Your Child\'s Creativity',
         excerpt: 'Discover fun and engaging activities that help develop your child\'s creative thinking and problem-solving skills.',
-        image: 'https://images.unsplash.com/photo-1519682337058-484054447914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80',
+        image: 'https://images.pexels.com/photos/8535599/pexels-photo-8535599.jpeg?auto=compress&cs=tinysrgb&w=600',
         date: 'March 15, 2024'
       },
       {
         title: 'The Importance of Early Childhood Education',
         excerpt: 'Learn why the first five years are crucial for your child\'s development and future success.',
-        image: 'https://images.unsplash.com/photo-1546411544-122914160814?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80',
+        image: 'https://images.pexels.com/photos/8613100/pexels-photo-8613100.jpeg?auto=compress&cs=tinysrgb&w=600',
         date: 'March 10, 2024'
       },
       {
         title: 'Preparing Your Child for Their First Day',
         excerpt: 'Tips and strategies to help make the transition to school smooth and enjoyable for your little one.',
-        image: 'https://images.unsplash.com/photo-1519682337058-484054447914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80',
+        image: 'https://images.pexels.com/photos/8467296/pexels-photo-8467296.jpeg?auto=compress&cs=tinysrgb&w=600',
         date: 'March 5, 2024'
       }
     ];

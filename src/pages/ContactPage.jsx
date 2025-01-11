@@ -59,7 +59,7 @@ import React from 'react';
                   </div>
                   <div>
                     <img
-                      src="https://images.unsplash.com/photo-1567057419565-4349c49d8a04?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                      src="https://images.pexels.com/photos/3913426/pexels-photo-3913426.jpeg?auto=compress&cs=tinysrgb&w=600"
                       alt="Contact Us"
                       className="w-full h-auto rounded-xl object-cover"
                       loading="lazy"

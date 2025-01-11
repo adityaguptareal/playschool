@@ -54,7 +54,7 @@ import React from 'react';
                   </div>
                   <div>
                     <img
-                      src="https://images.unsplash.com/photo-1546411544-122914160814?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+                      src="https://images.pexels.com/photos/1001914/pexels-photo-1001914.jpeg?auto=compress&cs=tinysrgb&w=600"
                       alt="Admissions"
                       className="w-full h-auto rounded-xl object-cover"
                       loading="lazy"
